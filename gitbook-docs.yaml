@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+site:
+  title: "Diagrams to Deployment (D2D)"
+  structure:
+    - type: space
+      key: space-d2d
+      title: "Diagrams to Deployment (D2D)"
+      path: d2d
+      default: true
+      content:
+        directory: ./
